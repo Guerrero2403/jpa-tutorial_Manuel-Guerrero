@@ -37,6 +37,8 @@ Parte 1: Configuración del Proyecto
 
              •   Java: 8 o superior
 
+
+
       •   Añade las dependencias:
 
              •   Spring Web
@@ -48,6 +50,7 @@ Parte 1: Configuración del Proyecto
       •   Genera y descarga el proyecto.
 
       •   Abre el proyecto en tu IDE favorito.
+![Captura de pantalla (2296)](https://github.com/Guerrero2403/jpa-tutorial_Manuel-Guerrero/blob/main/capturas/Screenshot_1.png)
 
  
 
@@ -60,24 +63,27 @@ Parte 2: Crear la Entidad y el Repositorio
       •   Crea un paquete llamado model.
 
       •   Dentro del paquete model, crea una clase Producto.
+![Captura de pantalla (2296)](https://github.com/Guerrero2403/jpa-tutorial_Manuel-Guerrero/blob/main/capturas/Screenshot_2.png)
 
 2.   Crear el Repositorio ProductoRepository:
 
       •   Crea un paquete llamado repository.
 
       •   Dentro del paquete repository, crea una interfaz ProductoRepository.
+     ![Captura de pantalla (2296)](https://github.com/Guerrero2403/jpa-tutorial_Manuel-Guerrero/blob/main/capturas/Screenshot_4.png)
 
  
 
 Parte 3: Crear el Servicio
 
- 
 
 1.   Crear la Clase ProductoService:
 
       •   Crea un paquete llamado service.
 
       •   Dentro del paquete service, crea una clase ProductoService.
+   ![Captura de pantalla (2296)](https://github.com/Guerrero2403/jpa-tutorial_Manuel-Guerrero/blob/main/capturas/Screenshot_5.png)
+
 
  
 
@@ -100,6 +106,7 @@ Parte 5: Inicializar la Base de Datos
 1.   Cargar Datos de Prueba:
 
       •   Crea una clase de configuración para inicializar algunos objetos Producto al inicio de la aplicación.
+![Captura de pantalla (2296)](https://github.com/Guerrero2403/jpa-tutorial_Manuel-Guerrero/blob/main/capturas/Screenshot_2.png)
 
  
 
