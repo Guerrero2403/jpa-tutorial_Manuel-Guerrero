@@ -1,4 +1,10 @@
-TAREA GRUPAL(EXPOCICION) 
+TAREA GRUPAL(EXPOCICION)
+INTEGRANTES:
+-Manuel Guerrero
+-Bustamante Daniela
+-Yair Chiang
+-Bryan Abarca
+ 
 Descripción de la Tarea:
 
  
